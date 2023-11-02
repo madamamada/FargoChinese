@@ -532,7 +532,7 @@ Mods: {
 			DukeFishronBuff: '''猪龙鱼公爵将为你而战'''
 			RoombaPetBuff: '''这个扫地机器人在跟着你'''	
 			DoveBuff: '''一只鸽子在跟着你'''
-			ChibiiRemiiBuff: '''恶魔「蕾米莉亚·斯特睐赤」'''
+			ChibiiRemiiBuff: '''恶魔「蕾米莉亚·斯卡蕾特」'''
 			PrimeMinionBuff: '''机械骷髅王将为你而战'''
 			FishMinionBuff: '''这些鱼将为你而战'''
 			CrimetroidBuff: '''宝宝血水母在跟着你'''
@@ -3599,7 +3599,7 @@ Mods: {
 			'''
 			MutantsPact:
 			'''
-			永久增加配饰栏数量
+			永久增加一个仅能容纳魔石，力或是魂的饰品栏
 			'''
 			OrdinaryCarrot:
 			'''
