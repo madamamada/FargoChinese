@@ -10,61 +10,61 @@ Mods: {
 	FargowiltasSouls: {
 		WizardEffect:{
 			Adamantite: 弹幕现在会分裂成三个，造成33%伤害，造成伤害的频率提升到3倍
-			AncientHallow: ""
-			AncientShadow: ""
-			Angler: ""
-			Bee: ""
-			Beetle: ""
+			AncientHallow: 无增强
+			AncientShadow: 暗影珠数量增加
+			Angler: 无增强
+			Bee: 无增强
+			Beetle: 无增强
 			Boreal: 更频繁的释放更多雪球
-			Cactus: ""
-			Chlorophyte: ""
+			Cactus: 无增强
+			Chlorophyte: 无增强
 			Cobalt: 增加爆炸伤害
 			Copper: 增加闪电伤害，冷却时间减少
-			Crimson: ""
-			CrystalAssassin: ""
-			DarkArtist: ""
+			Crimson: 无增强
+			CrystalAssassin: 无增强
+			DarkArtist: 无增强
 			Ebonwood: 伤害判定门槛从10提高至25，并且会杀死光环内任何小于200血量的生物
-			Forbidden: ""
-			Fossil: ""
-			Frost: ""
-			Gladiator: ""
-			Gold: ""
-			Hallow: ""
+			Forbidden: 无增强
+			Fossil: 无增强
+			Frost: 无增强
+			Gladiator: 无增强
+			Gold: 无增强
+			Hallow: 无增强
 			Iron: 物品拾取距离提升到四倍，合成加成现在也对任何秘银砧生效
 			Lead: 增加铅中毒伤害，持续伤害减免提升到60%
-			Meteor: ""
-			Miner: ""
+			Meteor: 无增强
+			Miner: 无增强
 			Molten: 易伤效果增加到50%，生效范围增加1.5倍
 			Mythril: 增加最大攻速加成，持续时间更长
-			Nebula: ""
-			Necro: ""
+			Nebula: 无增强
+			Necro: 无增强
 			Ninja: 护甲穿透增加提高到45点
 			Obsidian: 你不再需要岩浆来引发爆炸，冷却时间减少
 			Orichalcum: 倍数提高到4
 			Palladium: 快速治疗总是持续5秒，增加钯金珠伤害
 			PalmWood: 增加攻击速度和伤害，可以额外召唤两个棕榈树哨兵
 			Pearlwood: 增加伤害，冷却时间减少
-			Platinum: ""
-			Pumpkin: ""
-			Rain: ""
-			RedRiding: ""
+			Platinum: 无增强
+			Pumpkin: 无增强
+			Rain: 无增强
+			RedRiding: 无增强
 			RichMahogany: 牵引速度×2.5，伤害减免和荆棘效果大幅提升
 			Shadewood: 增加光环大小和血液伤害，并且会附加灵液效果
-			Shinobi: ""
-			Shroomite: ""
+			Shinobi: 无增强
+			Shroomite: 无增强
 			Silver: 格挡会给予惊人一刻增益
-			Solar: ""
-			Spectre: ""
-			Spider: ""
-			Spooky: ""
-			Stardust: ""
-			Tiki: ""
+			Solar: 无增强
+			Spectre: 无增强
+			Spider: 无增强
+			Spooky: 无增强
+			Stardust: 无增强
+			Tiki: 无增强
 			Tin: 最小暴击率提高到10%，最大暴击率至少有50%，减少了增加暴击过程的冷却时间
 			Titanium: 碎片会但只会受到最高的职业伤害加成，伤害减免提高至75%
 			Tungsten: 将武器大小提升到300%，伤害加成提升到20%，冷却时间减少
-			Turtle: ""
-			ValhallaKnight: ""
-			Vortex: ""
+			Turtle: 无增强
+			ValhallaKnight: 无增强
+			Vortex: 无增强
 			Wood: 怪物图鉴和旗帜解锁速度从2倍变为5倍
 		}
 
@@ -2972,7 +2972,7 @@ Mods: {
 			VortexEnchant:
 				'''
 				双击“下”键切换至隐形模式，减少敌人以你为目标的几率，但大幅降低移动速度
-				进入隐形状态时生成一个会吸引敌人和弹幕的旋涡
+				进入隐形状态时生成一个会吸引弹幕的旋涡
 				处于隐形状态时你的弹幕不会被旋涡吸引
 				“撕裂现实”
 				'''
