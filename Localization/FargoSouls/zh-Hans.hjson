@@ -66,6 +66,7 @@ Mods: {
 			ValhallaKnight: 无增强
 			Vortex: 无增强
 			Wood: 怪物图鉴和旗帜解锁速度从2倍变为5倍
+			AshWood: 火球发射更加频繁
 		}
 
 		SetBonus: {
